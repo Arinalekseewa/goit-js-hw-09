@@ -5,7 +5,7 @@ import "simplelightbox/dist/simple-lightbox.min.css";
 const images = [
   {
     preview:
-      './img/img-1.webp',
+      '../img/img-1.webp',
     original:
       './img/img-1-large.webp',
     description: 'Brain Storm',
